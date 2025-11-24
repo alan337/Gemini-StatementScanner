@@ -1,0 +1,5 @@
+{
+  "name": "StatementScanner",
+  "description": "Intelligent credit card statement analyzer powered by Gemini 2.5. Upload PDFs to extract transactions, auto-categorize spending, and manage custom rules.",
+  "requestFramePermissions": []
+}
